@@ -1,0 +1,44 @@
+{
+  "measurements": [
+    {
+      "part": "A",
+      "operator": "X",
+      "value": -1
+    },
+    {
+      "part": "A",
+      "operator": "X",
+      "value": 1
+    },
+    {
+      "part": "A",
+      "operator": "Y",
+      "value": 1
+    },
+    {
+      "part": "A",
+      "operator": "Y",
+      "value": 3
+    },
+    {
+      "part": "B",
+      "operator": "X",
+      "value": 9
+    },
+    {
+      "part": "B",
+      "operator": "X",
+      "value": 11
+    },
+    {
+      "part": "B",
+      "operator": "Y",
+      "value": 11
+    },
+    {
+      "part": "B",
+      "operator": "Y",
+      "value": 13
+    }
+  ]
+}

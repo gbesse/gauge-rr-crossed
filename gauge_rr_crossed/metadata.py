@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Décomposer répétabilité et reproductibilité de mesures croisées', 'en': 'Decompose repeatability and reproducibility of crossed measurements', 'es': 'Descomponer repetibilidad y reproducibilidad de mediciones cruzadas'}

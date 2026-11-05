@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gauge-rr-crossed"
+version = "0.1.0a1"
+description = "FR: Décomposer répétabilité et reproductibilité de mesures croisées | EN: Decompose repeatability and reproducibility of crossed measurements | ES: Descomponer repetibilidad y reproducibilidad de mediciones cruzadas"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+gauge-rr-crossed = "gauge_rr_crossed.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["gauge_rr_crossed*"]
